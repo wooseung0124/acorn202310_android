@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="All Tests">
+        <State />
+      </entry>
+      <entry key="step00text">
+        <State />
+      </entry>
+      <entry key="step01hello">
+        <State />
+      </entry>
+      <entry key="step02_activity3">
+        <State />
+      </entry>
+      <entry key="step02activity">
+        <State />
+      </entry>
+      <entry key="step02activity2">
+        <State />
+      </entry>
+      <entry key="step02activity3">
+        <State />
+      </entry>
+      <entry key="step03layout">
+        <State />
+      </entry>
+      <entry key="step04example">
+        <State />
+      </entry>
+      <entry key="step04view">
+        <State />
+      </entry>
+      <entry key="step05listview">
+        <State />
+      </entry>
+      <entry key="step06customlistview">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>

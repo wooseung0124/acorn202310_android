@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!--
+        관계설정 전에 Design 툴에서 위치와 객체간의 관계를 마우스로 지정하는 법
+        :  객체 생성 후 클릭하면 동서남북으로 흰색 버튼이 생길텐데 그걸 잡고 드레그하면 관계설정이 된다.
+            그냥 땡기면 객체가 따라가고 ctrl 누르고 드레그하면 객체가 고정된 상태로 위치선정이 된다.
+    -->
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Button"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="160dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>
